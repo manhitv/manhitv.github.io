@@ -1,7 +1,7 @@
 ---
-title: "How to become a Data Scientist"
+title: "Markdown Extra Components"
 layout: post
-date: 2022-03-04 09:10 UTC+7
+date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: manhitv
+author: jamesfoster
 description: Markdown summary with different options
 ---
 
