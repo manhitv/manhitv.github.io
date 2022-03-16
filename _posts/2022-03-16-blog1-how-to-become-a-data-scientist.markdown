@@ -18,7 +18,7 @@ description: Markdown summary with different options
 [“The sexiest job of the 21st century.”](#https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), [“The best job in America (2016-2019).”](#https://www.glassdoor.com/List/Best-Jobs-in-America-2019-LST_KQ0,25.htm) Data scientist, a title that didn’t even exist before 2008, is now the position employers can’t hire enough of and job seekers strive to become. There’s good reason for the hype: data science is a hugely growing field, with a median base salary of [more than $100,000 in the United States from 2015](#https://www.glassdoor.com/List/Best-Jobs-in-America-2015-LST_KQ0,25.htm).
 
 <div class="center">
-    <img class="image" src="https://manhitv.github.io/assets/images/image_1.png" alt="Alt Text">
+    <img class="image" src="/assets/images/image_1.png" alt="Alt Text">
     <figcaption class="caption">Data Scientist - The sexiest job of the 21st century</figcaption>
 </div>
 
@@ -33,7 +33,7 @@ In another situation, that same retail company may want to increase online order
 
 <div class="side-by-side">
     <div class="toright">
-        <img class="image" src="https://manhitv.github.io/assets/images/image_2.png" alt="Alt Text">
+        <img class="image" src="/assets/images/image_2.png" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 
@@ -54,7 +54,7 @@ At the basic level, mathematics and statistics knowledge is data literacy. We br
 Programming and databases refer to <em>the ability to pull data from company databases and to write clean, efficient, maintainable code</em>. These skills are in many ways similar to what a software developer has to know, except that data scientists have to write code that does open-ended analysis rather than produces a predefined output. Each company’s data stack is unique, so no one set of technical skills is required for a data scientist. But broadly, you’ll need to know how to get data from a database and how to clean, manipulate, summarize, visualize and share data.
 
 <div class="center">
-    <img class="image" src="https://manhitv.github.io/assets/images/image_3.png" alt="Alt Text">
+    <img class="image" src="/assets/images/image_3.png" alt="Alt Text">
     <figcaption class="caption">Python or R is the main language of most data science jobs</figcaption>
 </div>
 
@@ -92,7 +92,7 @@ Let’s dive into each of these above methods.
 Many colleges offer graduate degrees in data science, with programs covering a mixture of topics in computer science, statistics and business. Because these programs are master’s degree programs, they generally take two years and cost $10-50,000 USD or more (depending on the specific country). As with most graduate programs, you can choose to go through the program more slowly while having a job and/or potentially take the classes as online courses. Although many schools offer an actual data science degree, depending on your interests, you may choose instead to get a degree in computer science, statistics, business analytics, operations research or something very close to data science.
 
 <div class="center">
-    <img class="image" src="https://manhitv.github.io/assets/images/image_5.png" alt="Alt Text">
+    <img class="image" src="/assets/images/image_5.png" alt="Alt Text">
     <figcaption class="caption">Characteristics of Earning a graduate degree</figcaption>
 </div>
 
@@ -104,7 +104,7 @@ A bootcamp is an 8- to 15-week intensive course put on by companies. During the 
 Bootcamps teach you an incredible amount in a very short time, which means that they can be great for people who have most of the skills needed for data science but need a bit more. Sometimes, the best part of a bootcamp isn’t the knowledge itself, but the confidence you get from the program that you can actually do the work.
 
 <div class="center">
-    <img class="image" src="https://manhitv.github.io/assets/images/image_6.png" alt="Alt Text">
+    <img class="image" src="/assets/images/image_6.png" alt="Alt Text">
     <figcaption class="caption">Characteristics of participating a bootcamp</figcaption>
 </div>
 
@@ -130,7 +130,7 @@ To choose a path for yourself, take time to reflect on what skills you already h
 How do you choose among these four very different avenues to data science? The process is different for everyone, but we propose answering three questions as in the following chart.
 
 <div class="center">
-    <img class="image" src="https://manhitv.github.io/assets/images/image_7.png" alt="Alt Text">
+    <img class="image" src="/assets/images/image_7.png" alt="Alt Text">
     <figcaption class="caption">Questions should be asked when you consider to learn Data Science</figcaption>
 </div>
 
