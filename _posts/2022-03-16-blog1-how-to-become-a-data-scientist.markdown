@@ -38,8 +38,8 @@ In another situation, that same retail company may want to increase online order
     </div>
 
     <div class="toright">
-        <p>If you’ve looked into the different areas of data science, you may be familiar with the popular data science Venn diagram. Data science fell into the intersection of math and statistical knowledge, expertise in a domain and computer science skills (that is, coding). This image is often used as the cornerstone of defining what a data scientist is.
-        Although it’s true that all three skills are fundamental and that you need to have each to a degree, you don’t need to be an expert in all of them. The overlap parts show different types of data science specialties. These specialties don’t always map one-to-one with job titles, and even when they do, different companies sometimes call them different things.</p>
+        <p>If you’ve looked into the different areas of data science, you may be familiar with the popular data science Venn diagram. Data science fell into the intersection of math and statistical knowledge, expertise in a domain and computer science skills (that is, coding). This image is often used as the cornerstone of defining what a data scientist is.</p>
+        <p>Although it’s true that all three skills are fundamental and that you need to have each to a degree, you don’t need to be an expert in all of them. The overlap parts show different types of data science specialties. These specialties don’t always map one-to-one with job titles, and even when they do, different companies sometimes call them different things.</p>
     </div>
 </div>
 Let's dive into each part to find out what these components mean.
