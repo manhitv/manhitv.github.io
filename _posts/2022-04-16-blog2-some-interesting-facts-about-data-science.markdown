@@ -1,8 +1,17 @@
-Some interesting facts about Data Science
-
-Last updated: 16/04/2022
-
-[[TOC]]
+---
+title: "Some interesting facts about Data Science"
+layout: post
+date: 2022-04-16
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
+category: blog
+author: manhitv
+description: Markdown summary with different options
+---
 
 Data science and related disciplines, including data analytics, remained a top priority. These domains are interesting and in great demand today. 
 
@@ -13,7 +22,6 @@ If you’ve read my previous blog [[https://manhitv.github.io/blog1-how-to-becom
 With all the optimism (and big potential salaries listed in news articles) around data science, it’s easy to see why it presents attractive career opportunities, particularly as the range and scope of data science job titles continues to expand. But as a new entrant to the field, it’s important to have a realistic, nuanced view of where the data science market is heading for the next couple years and adjust accordingly.
 
 ![image alt text](/assets/images/blog2/image_0.png)
-
 *Fig. Trends impact the data science field*
 
 Given these trends, it’s important to understand that it may be hard to initially differentiate yourself from the other resumes on the pile to get into the final round of interviews. You need to have some strategies to help you stand out, which is needed in this new, competitive data science environment.
@@ -25,7 +33,6 @@ Given these trends, it’s important to understand that it may be hard to initia
 It’s** possible to do a lot of data work using only Excel, Tableau, or other business intelligence tools that have graphical interfaces**. Although you’re not writing code, these tools claim to have much of the same functionality as languages such as R or Python, and many data scientists do use them sometimes. But can they be a complete data science toolkit? We say no. Practically, very **few companies have a data science team where you wouldn’t need to program**. Without programming, there will be a limited number of solutions that you could deliver to customers. For example, you can not deploy a machine learning model to run continuously. 
 
 ![image alt text](/assets/images/blog2/image_1.png)
-
 *Fig. Some advantages of programming over using BI tools*
 
 * Do I need a PhD to get a data science job?
@@ -35,7 +42,6 @@ PhDs are degrees that **take many years to obtain** and that focus on training s
 **A fair number of data science job posts require a PhD**. But the skills acquired in a PhD program are rarely what’s needed for the job; usually, the PhD requirement is a signal from the company that the position is considered to be prestigious. The **material you can learn from a master’s or undergraduate degree program will suit you fine for the vast majority of data science jobs**.
 
 ![image alt text](/assets/images/blog2/image_2.png)
-
 *Fig. You probably not need a PhD to get a data science job*
 
 Also, **getting a PhD incurs huge opportunity cost**. If it takes seven years to graduate, you could have been working at a company for seven years instead, getting better at data science and making far more money.
@@ -73,7 +79,6 @@ Getting success in a data science competition (e.g. through an online platform l
 Data science competition websites, such as Kaggle or Drivendata are great places for practicing machine learning, but that’s not all of data science. 
 
 ![image alt text](/assets/images/blog2/image_3.png)
-
 *Fig. Compare some characteristics of Data Science competitions with real-life projects*
 
 So, it would be safe to say that competitions do give a fair practice for data science. But it is not enough. You need to get your hands dirty and work in live real-time projects to know the correct essence of data science. 
