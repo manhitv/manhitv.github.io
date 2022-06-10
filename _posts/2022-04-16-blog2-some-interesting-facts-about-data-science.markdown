@@ -1,8 +1,8 @@
 ---
-title: "Some interesting facts about Data Science"
+title: Some interesting facts about Data Science
 layout: post
-date: 2022-04-16
-image: /assets/images/markdown.jpg
+date: '2022-04-16'
+image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
 - markdown
@@ -10,7 +10,7 @@ tag:
 - extra
 category: blog
 author: manhitv
-description: Markdown summary with different options
+description: Some interesting facts about Data Science
 ---
 
 Data science and related disciplines, including data analytics, remained a top priority. These domains are interesting and in great demand today. 
@@ -106,4 +106,3 @@ Even after the new data is cleaned and merged to the existing ideal dataset, the
 10. References
 
 Emily, R. & Jacqueline, N. (2020). *Build a career in Data Science*.
-

@@ -146,4 +146,6 @@ If you’re still in college, it’s good for you to improve your data structure
 
 I hope this blog has helped you answer many questions about how to become a data scientist. When you apply for data scientist positions, one thing that I would strongly emphasize is that you need to demonstrate that you can do this job. That can look different for different people. Data science is still a young-enough field that people aren’t sure what it means to be a data scientist and who can be one; it’s still very undefined. There is still a lot of uncertainty in what this role means and the positions are highly paid enough that the perceived risk to a company hiring wrong is very high, so companies are very risk-averse. Companies need to be sure that the candidate can do that job. Some ways I’ve seen people demonstrate that they can do the job is through open source contributions, speaking at local meetups on projects they’ve done and developing a portfolio of projects on a blog or GitHub/Kaggle profile. For me, I took all the MOOCs and books I needed to learn and started a blog about all of these projects. 
 
-[1]: Book - Build a Career in Data Science
+5. References
+
+[1] <a href="https://www.manning.com/books/build-a-career-in-data-science"> Build a career in Data Science</a>.

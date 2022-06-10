@@ -1,41 +1,26 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">My personal website based on Jekyll Template - <a href="https://manhitv.github.io/">manhitv</a></h2>
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">Much thanks for <a href="https://github.com/sergiokopplin">@sergiokopplin</a> for the wonderful template.</p>
 
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
-
-<p align="center">
-    Light and Dark themes.
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+    <img src="https://raw.githubusercontent.com/manhitv/manhitv.github.io/master/assets/screen-shot.png" />
 </p>
 
 ## What has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+- Google Speed: [99/100](https://pagespeed.web.dev/report?url=https%3A%2F%2Fmanhitv.github.io%2F&form_factor=desktop);
+- No JS.
 
 ## Setup
 
-0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+1. Fork the project
 2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-3. Write some posts :bowtie:
+3. Write some posts
 
 If you want to test locally on your machine, do the following steps also:
 
@@ -51,19 +36,10 @@ If you want to test locally on your machine, do the following steps also:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Manh Nguyen
+bio: 'Minimalism, Data Science & Run'
 picture: 'assets/images/profile.jpg'
 ...
 
 and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
 ```
-
-## How To?
-
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
-
----
-## License
-
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
