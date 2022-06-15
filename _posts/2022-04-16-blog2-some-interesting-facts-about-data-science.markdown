@@ -11,10 +11,25 @@ category: blog
 author: manhitv
 description: Some interesting facts about Data Science
 ---
-
 Data science and related disciplines, including data analytics, remained a top priority. These domains are interesting and in great demand today. 
 
 If you’ve read [my previous blog](#https://manhitv.github.io/blog1-how-to-become-a-data-scientist/), you can see that there is much to prepare for a job in data science. Beside many interesting things about data science, there may be several others that might surprise you.
+
+---
+- [1. Trends in job market](#1-trends-in-job-market)
+- [2. Can you be a data scientist with/without?](#2-can-you-be-a-data-scientist-withwithout)
+    - [2.1. Can you be a data scientist without programming?](#21-can-you-be-a-data-scientist-without-programming)
+    - [2.2. Do I need a PhD to get a data science job?](#22-do-i-need-a-phd-to-get-a-data-science-job)
+- [3. Which skills are the most precious for a Data Scientist?](#3-which-skills-are-the-most-precious-for-a-data-scientist)
+- [4. Will Data Science disappear?](#4-will-data-science-disappear)
+- [5. What do junior data scientists frequently get wrong?](#5-what-do-junior-data-scientists-frequently-get-wrong)
+- [6. Do you always try to explain the technical part of data science?](#6-do-you-always-try-to-explain-the-technical-part-of-data-science)
+- [7. Data science competitions and real life projects are different](#7-data-science-competitions-and-real-life-projects-are-different)
+- [8. More data does not always mean more accuracy](#8-more-data-does-not-always-mean-more-accuracy)
+- [9. Some others funfacts](#9-some-others-funfacts)
+- [10. References](#10-references)
+
+---
 
 ## 1. Trends in job market
 
@@ -44,6 +59,12 @@ PhDs are degrees that *take many years to obtain* and that focus on training stu
 
 *A fair number of data science job posts require a PhD*. But the skills acquired in a PhD program are rarely what’s needed for the job; usually, the PhD requirement is a signal from the company that the position is considered to be prestigious. The *material you can learn from a master’s or undergraduate degree program will suit you fine for the vast majority of data science jobs*.
 
+<style>
+img {
+  display: block;
+  margin: auto;
+}
+</style>
 <div class="center">
     <img class="image" src="/assets/images/blog2/image_2.png" alt="Alt Text">
     <figcaption class="caption">You probably don't need a PhD to get a data science job</figcaption>
@@ -83,8 +104,14 @@ Getting success in a data science competition (e.g. through an online platform l
 
 Data science competition websites, such as Kaggle or Drivendata are great places for practicing machine learning, but that’s not all of data science. 
 
+<style>
+img {
+  display: block;
+  margin: auto;
+}
+</style>
 <div class="center">
-    <img class="image" src="/assets/images/blog2/image_3.png" alt="Alt Text">
+    <img class="image" src="/assets/images/blog2/image_3.png" alt="Alt Text" style="width:500">
     <figcaption class="caption">Compare some characteristics of Data Science competitions with real-life projects</figcaption>
 </div>
 

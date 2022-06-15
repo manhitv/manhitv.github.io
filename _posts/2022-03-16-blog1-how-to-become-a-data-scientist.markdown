@@ -12,16 +12,41 @@ author: manhitv
 description: Data Science career
 ---
 
-## 1. Introduction
-
 [“The sexiest job of the 21st century.”](#https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), [“The best job in America (2016-2019).”](#https://www.glassdoor.com/List/Best-Jobs-in-America-2019-LST_KQ0,25.htm) Data scientist, a title that didn’t even exist before 2008, is now the position employers can’t hire enough of and job seekers strive to become. There’s good reason for the hype: data science is a hugely growing field, with a median base salary of [more than $100,000 in the United States from 2015](#https://www.glassdoor.com/List/Best-Jobs-in-America-2015-LST_KQ0,25.htm).
 
+<style>
+img {
+  display: block;
+  margin: auto;
+}
+</style>
 <div class="center">
-    <img class="image" src="/assets/images/blog1/image_1.png" alt="Alt Text" height="80%">
+    <img class="image" src="/assets/images/blog1/image_1.png" alt="Alt Text" style="width:70%">
     <figcaption class="caption">Data Scientist - The sexiest job of the 21st century</figcaption>
 </div>
 
 This blog was written to help you enter the field of data science. It walks you through the different roles in data science, the required skills and how to get the skills you need. The first part of the blog is designed to help you understand what all these types of data scientists are and how to make the best decisions to start your career, which covers what data science is, what skills it requires and the different types of jobs that share that title. The remainder lays out the different paths a person can take to get the skills needed to be a data scientist and some guidelines on making the best decisions.
+
+---
+- [1. Introduction](#1-introduction)
+- [2. Skill sets](#2-skill-sets)
+    - [2.1. Mathematics/statistics](#21-mathematicsstatistics)
+    - [2.2. Databases/programming](#22-databasesprogramming)
+    - [2.3. Business understanding](#23-business-understanding)
+- [3. Different types of data science jobs](#3-different-types-of-data-science-jobs)
+- [4. Learning methods](#4-learning-methods)
+    - [4.1. Earning a graduate degree](#41-earning-a-graduate-degree)
+    - [4.2. Participating in a data science bootcamp](#42-participating-in-a-data-science-bootcamp)
+    - [4.3. Doing data science work in your current job](#43-doing-data-science-work-in-your-current-job)
+    - [4.4. Teaching yourself](#44-teaching-yourself)
+- [5. Making the choice](#5-making-the-choice)
+    - [Skill sets to focus on some specific backgrounds](#skill-sets-to-focus-on-some-specific-backgrounds)
+- [6. References](#6-references)
+
+---
+
+## 1. Introduction
+
 So what is Data Science? Data science is the practice of using data to try to understand and solve real-world problems. This concept isn’t exactly new; people have been analyzing sales figures and trends since the invention of the zero. In the past decade, however, we have gained access to exponentially more data than existed before. The advent of computers has assisted in the generation of all that data, but computing is also our only way to process the mounds of information. With computer code, a data scientist can transform or aggregate data, run statistical analyses, or train machine learning models. The output of this code may be a report or dashboard for human consumption, or it could be a machine learning model that will be deployed to run continuously.
 To illustrate, if a retail company is having trouble deciding where to put a new store, for example, it may call in a data scientist to do an analysis. The data scientist could look at the historical data of locations where online orders are shipped to understand where customer demand is. They may also combine that customer location data with demographic and income information for those localities from census records. With these datasets, they could find the optimal place for the new store and create a Microsoft PowerPoint presentation to present their recommendation to the company’s vice-president of retail operations.
 In another situation, that same retail company may want to increase online order sizes by recommending items to customers while they shop. A data scientist could load the historical web order data and create a machine learning model that, given a set of items currently in the cart, predicts the best item to recommend to the shopper. After creating that model, the data scientist would work with the company’s engineering team so that every time a customer is shopping, the new machine learning model serves up the recommended items.
@@ -32,7 +57,7 @@ In another situation, that same retail company may want to increase online order
 
 <div class="side-by-side">
     <div class="toright">
-        <img class="image" src="/assets/images/blog1/image_2.png" alt="Alt Text" height="80%">
+        <img class="image" src="/assets/images/blog1/image_2.png" alt="Alt Text" style="width:80%">
         <figcaption class="caption">Data Science Venn diagram</figcaption>
     </div>
 
