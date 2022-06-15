@@ -17,7 +17,7 @@ description: Data Science career
 [“The sexiest job of the 21st century.”](#https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century), [“The best job in America (2016-2019).”](#https://www.glassdoor.com/List/Best-Jobs-in-America-2019-LST_KQ0,25.htm) Data scientist, a title that didn’t even exist before 2008, is now the position employers can’t hire enough of and job seekers strive to become. There’s good reason for the hype: data science is a hugely growing field, with a median base salary of [more than $100,000 in the United States from 2015](#https://www.glassdoor.com/List/Best-Jobs-in-America-2015-LST_KQ0,25.htm).
 
 <div class="center">
-    <img class="image" src="/assets/images/blog1/image_1.png" alt="Alt Text">
+    <img class="image" src="/assets/images/blog1/image_1.png" alt="Alt Text" height="80%">
     <figcaption class="caption">Data Scientist - The sexiest job of the 21st century</figcaption>
 </div>
 
@@ -32,7 +32,7 @@ In another situation, that same retail company may want to increase online order
 
 <div class="side-by-side">
     <div class="toright">
-        <img class="image" src="/assets/images/blog1/image_2.png" alt="Alt Text">
+        <img class="image" src="/assets/images/blog1/image_2.png" alt="Alt Text" height="80%">
         <figcaption class="caption">Data Science Venn diagram</figcaption>
     </div>
 
@@ -71,13 +71,62 @@ Finally, as you become more senior, part of your job is to <em>identify where th
 You can mix and match the three core skills of data science (covered in the section above) into several jobs, all of which have some justification for having the title data scientist. From our perspective, these skills get mixed together in three main ways: analytics, machine learning and decision science. Each of those areas serves a different purpose for the company and fundamentally delivers a different thing.
 When looking for data science jobs, you should <em>pay less attention to the job titles and more to the job descriptions and what you’re asked in the interviews</em>. Look at the backgrounds of people in data science roles, such as what previous jobs they held and what their degrees are. You may find that people who work in similar-sounding jobs have totally different titles or that people who have the same data scientist title do totally different things. Remember that the actual titles used at companies may vary as we talk about different types of data science jobs in this blog.
 
-| <div style="width:150px">Name</div> | Job function | <div style="width:180px">Typical skills/Tools</div> | Example tasks |
-|:---|:---|:---|:---|
-| Data Analyst<br/> Business Intelligence Analyst | creates dashboards and reports that deliver data | - Data engineering<br/> - Data visualization<br/> - Storytelling<br/> - Business analysis | create an automated dashboard that shows how our number of subscribers is changing over time and lets us filter the data to just subscribers of specific products or in specific geographical regions |
-| Machine Learning Engineer | creates models that get run continuously (in production) | - Data engineering<br/> - ML/DL modelling<br/> - Deployment, monitoring and maintaining model performance | create a machine learning model that can—in real time—predict the probability that a customer on the website will actually finish their order |
-| Decision scientist | creates analyses that produce recommendations | - Mathematical and statistical methods<br/> - Business decision-making<br/> - Able to make a particular analysis<br/> - Communication effectively with stakeholders | help the marketing department decide which types of products should be highlighted in the company’s holiday gift guide. The decision scientist might investigate what products have sold well without being featured in the gift guide, talk to the user research team about conducting a survey, and use principles of behavioral science to do an analysis to come up with the optimal items to suggest. The result is likely to be a PowerPoint presentation or report to be shared with product managers, vice presidents, and other businesspeople. |
-| Data Engineer | keeping data maintained in databases and ensuring that people can get the data they need | - Data structures and programming<br/> - Advanced data engineering<br/> - Data storage<br/> - Data governance | maintain all the customer records in a large-scale cloud database and manage data from collection to processing to data storage |
-| Research scientist | develops and implements new tools, algorithms, and methodologies, often to be used by other data scientists within the company | - PhDs, usually in computer science, statistics, quantitative social science or a related field | research and try out methods to get 1% more accuracy on image recognition in self-driving cars or building a new deep learning algorithm |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5t9h{background-color:#A4C2F4;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-5t9h"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Name</span></th>
+    <th class="tg-5t9h"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Job function</span></th>
+    <th class="tg-5t9h"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Typical skills/Tools</span></th>
+    <th class="tg-5t9h"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Example tasks</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Data Analyst</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">creates dashboards and reports that deliver data</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data engineering</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data visualization</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Storytelling</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Business analysis</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Create an automated dashboard that shows how our number of subscribers is changing over time and lets us filter the data to just subscribers of specific products or in specific geographical regions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Machine Learning Engineer</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">creates models that get run continuously (in production)</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data engineering</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- ML/DL modelling</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Deployment, monitoring and maintaining model performance</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">create a machine learning model that can—in real time—predict the probability that a customer on the website will actually finish their order</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Decision scientist</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">creates analyses that produce recommendations</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Mathematical and statistical methods</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Business decision-making</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Able to make a particular analysis</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Communication effectively with stakeholders</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">help the marketing department decide which types of products should be highlighted in the company’s holiday gift guide. The decision scientist might investigate what products have sold well without being featured in the gift guide, talk to the user research team about conducting a survey, and use principles of behavioral science to do an analysis to come up with the optimal items to suggest. The result is likely to be a PowerPoint presentation or report to be shared with product managers, vice presidents, and other businesspeople.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Business Intelligence Analyst</span></td>
+    <td class="tg-0lax" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Similar to Data analyst but use less statistical and programming expertise. Their tool of choice may be Excel instead of Python and they may not ever make statistical models.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Data Engineer</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">keeping data maintained in databases and ensuring that people can get the data they need</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data structures and programming</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Advanced data engineering</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data storage</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- Data governance</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">maintain all the customer records in a large-scale cloud database and manage data from collection to processing to data storage</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Research scientist</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">develops and implements new tools, algorithms, and methodologies, often to be used by other data scientists within the company</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">- PhDs, usually in computer science, statistics, quantitative social science or a related field</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">research and try out methods to get 1% more accuracy on image recognition in self-driving cars or building a new deep learning algorithm</span></td>
+  </tr>
+</tbody>
+</table>
 
 At this point, it’s good to start reflecting on the area of data science you want to specialize in. Where do you already have experience? There are many data scientists who are former engineers, psychology professors, marketing managers, statistics students and social workers. A lot of times, the knowledge you’ve gained in other jobs and academic areas can help you be a better data scientist. If you’re already in data science, it’s helpful to reflect now on which part of the Venn diagram you’re in. Are you happy with it? Do you want to switch to a different type of data science job? Transitioning is often available.
 
@@ -144,14 +193,14 @@ Although these questions should provide you a starting point, you don’t have t
 #### Skill sets to focus on some specific backgrounds
 While we've covered some ideas for making decisions easier above, we can take it a step further to dive into some specific backgrounds close to software engineering.
 If you’re still in college, it’s good for you to improve your data structures knowledge and programming skills with SQL, Python or R (or even Java). You also have time to build up a Github or Kaggle profile, which is good to show up your portfolio. You’re ready to work in companies to solve problems.
-	* If you’re a programmer with more than two years experience, it is better to take online courses, improve knowledge of Deep Learning/Machine Learning libraries and tools. Moreover, you should pick up an area to focus on, such as general Machine Learning, Natural Languange Processing or Image/Video processing. As proposed earlier, the best way to learn data science is to do data science, that’s good for you to practice or do side projects. You’ll have a better option to consider to be a Data Engineer than a Scientist because of similar skill sets with your background. When you become more experienced (for example > 10 years experience), you should focus on solving business problems using data science. Your curiosity helps you to find the problem on your own and solve it yourself. You could also solve more general problems such as scaling challenges with data, and how to benefit from provided sights.
-	* If you’re Business Analysts, Domain experts or Managers, it’s not necessary to know mathematics or programming, it’s better to take a course to understand how Machine Learning works, their ability and limitation, understand each step in Machine Learning, especially on formulating the business around data.
+- If you’re a programmer with more than two years experience, it is better to take online courses, improve knowledge of Deep Learning/Machine Learning libraries and tools. Moreover, you should pick up an area to focus on, such as general Machine Learning, Natural Languange Processing or Image/Video processing. As proposed earlier, the best way to learn data science is to do data science, that’s good for you to practice or do side projects. You’ll have a better option to consider to be a Data Engineer than a Scientist because of similar skill sets with your background. When you become more experienced (for example > 10 years experience), you should focus on solving business problems using data science. Your curiosity helps you to find the problem on your own and solve it yourself. You could also solve more general problems such as scaling challenges with data, and how to benefit from provided sights.
+- If you’re Business Analysts, Domain experts or Managers, it’s not necessary to know mathematics or programming, it’s better to take a course to understand how Machine Learning works, their ability and limitation, understand each step in Machine Learning, especially on formulating the business around data.
 
 ---
 
 I hope this blog has helped you answer many questions about how to become a data scientist. When you apply for data scientist positions, one thing that I would strongly emphasize is that you need to demonstrate that you can do this job. That can look different for different people. Data science is still a young-enough field that people aren’t sure what it means to be a data scientist and who can be one; it’s still very undefined. There is still a lot of uncertainty in what this role means and the positions are highly paid enough that the perceived risk to a company hiring wrong is very high, so companies are very risk-averse. Companies need to be sure that the candidate can do that job. Some ways I’ve seen people demonstrate that they can do the job is through open source contributions, speaking at local meetups on projects they’ve done and developing a portfolio of projects on a blog or GitHub/Kaggle profile. For me, I took all the MOOCs and books I needed to learn and started a blog about all of these projects. 
 
-## 5. References
+## 6. References
 
 [1] <a href="https://www.manning.com/books/build-a-career-in-data-science"> Build a career in Data Science</a>
 
