@@ -6,11 +6,10 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
-- components
-- extra
+- datascience
 category: blog
 author: manhitv
-description: Markdown summary with different options
+description: Data Science career
 ---
 
 ## 1. Introduction
@@ -34,7 +33,7 @@ In another situation, that same retail company may want to increase online order
 <div class="side-by-side">
     <div class="toright">
         <img class="image" src="/assets/images/blog1/image_2.png" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">Data Science Venn diagram</figcaption>
     </div>
 
     <div class="toleft">
@@ -44,13 +43,13 @@ In another situation, that same retail company may want to increase online order
 </div>
 Let's dive into each part to find out what these components mean.
 
-#### Mathematics/statistics
+#### 2.1. Mathematics/statistics
 At the basic level, mathematics and statistics knowledge is data literacy. We break down that literacy into three levels of knowledge:
 - <em>Those techniques exist</em>—If you don’t know that something is possible, you can’t use it. If a data scientist was trying to group similar customers, knowing that statistical methods (called clustering) can do this would be the first step.
 - <em>How to apply the techniques</em>—Although a data scientist may know about many techniques, they also need to be able to understand the complexities of applying them—not only how to write code to apply the methods, but also how to configure them. If the data scientist wants to use a method such as k-means clustering to group the customers, they would need to understand how to do k-means clustering in a programming language such as R or Python. They would also need to understand how to adjust the parameters of the method, for example, by choosing how many groups to create.
 - <em>How to choose which techniques to try</em>—Because so many possible techniques can be used in data science, it’s important for the data scientist to be able to quickly assess whether a technique would work well. In our customer grouping example, even after the data scientist focuses on clustering, they have to consider dozens of different methods and algorithms. Rather than trying each method, they need to be able to rule out methods quickly and focus on just a few.
 
-#### Databases/programming
+#### 2.2. Databases/programming
 Programming and databases refer to <em>the ability to pull data from company databases and to write clean, efficient, maintainable code</em>. These skills are in many ways similar to what a software developer has to know, except that data scientists have to write code that does open-ended analysis rather than produces a predefined output. Each company’s data stack is unique, so no one set of technical skills is required for a data scientist. But broadly, you’ll need to know how to get data from a database and how to clean, manipulate, summarize, visualize and share data.
 
 <div class="center">
@@ -60,7 +59,7 @@ Programming and databases refer to <em>the ability to pull data from company dat
 
 Although most data science analysis is done in R or Python, you’ll often need to use SQL to work with a database to get the data. SQL is the programming language that most databases use to manipulate data within them or to extract it. Consider a data scientist who wants to analyze the hundreds of millions of records of customer orders in a company to forecast how orders per day will change over time. First, they would likely write a SQL query to get the number of orders each day. Then they would take those daily order counts and run a statistical forecast in R or Python. For this reason, SQL is extremely popular in the data science community and it’s difficult to get too far without knowing it.
 
-#### Business understanding
+#### 2.3. Business understanding
 A core skill in data science is <em>knowing how to translate a business situation into a data question, find the data answer and finally deliver the business answer</em>. A businessperson might ask, for example, “Why are our customers leaving?” But there’s no “why-are-customers-leaving” Python package that you can import—it’s up to you to deduce how to answer that question with data.
 Business understanding is where your data science ideals meet the practicalities of the real world. It’s not enough to want a specific piece of information <em>without knowing how the data is stored and updated</em> at your specific company. If your company is a subscription service, where does the data live? If someone changes their subscription, what happens? Does that subscriber’s row get updated or is another row added to the table? Do you need to work around any errors or inconsistencies in the data? If you don’t know the answers to these questions, you won’t be able to give an accurate answer to a basic question like “How many subscribers did we have on March 2, 2019?”
 Business understanding also helps you know what questions to ask. Being asked “What should we do next?” by a stakeholder is a little like being asked “Why do we not have more money?”. This type of question begs more questions. Developing an understanding of the core business (as well as the personalities involved) can help you parse the situation better. You might follow up with “Which product line are you looking for guidance regarding?” or “Would you like to see more participation from a certain sector of our audience?”
@@ -72,7 +71,13 @@ Finally, as you become more senior, part of your job is to <em>identify where th
 You can mix and match the three core skills of data science (covered in the section above) into several jobs, all of which have some justification for having the title data scientist. From our perspective, these skills get mixed together in three main ways: analytics, machine learning and decision science. Each of those areas serves a different purpose for the company and fundamentally delivers a different thing.
 When looking for data science jobs, you should <em>pay less attention to the job titles and more to the job descriptions and what you’re asked in the interviews</em>. Look at the backgrounds of people in data science roles, such as what previous jobs they held and what their degrees are. You may find that people who work in similar-sounding jobs have totally different titles or that people who have the same data scientist title do totally different things. Remember that the actual titles used at companies may vary as we talk about different types of data science jobs in this blog.
 
--- Table here
+| <div style="width:150px">Name</div> | Job function | <div style="width:180px">Typical skills/Tools</div> | Example tasks |
+|:---|:---|:---|:---|
+| Data Analyst<br/> Business Intelligence Analyst | creates dashboards and reports that deliver data | - Data engineering<br/> - Data visualization<br/> - Storytelling<br/> - Business analysis | create an automated dashboard that shows how our number of subscribers is changing over time and lets us filter the data to just subscribers of specific products or in specific geographical regions |
+| Machine Learning Engineer | creates models that get run continuously (in production) | - Data engineering<br/> - ML/DL modelling<br/> - Deployment, monitoring and maintaining model performance | create a machine learning model that can—in real time—predict the probability that a customer on the website will actually finish their order |
+| Decision scientist | creates analyses that produce recommendations | - Mathematical and statistical methods<br/> - Business decision-making<br/> - Able to make a particular analysis<br/> - Communication effectively with stakeholders | help the marketing department decide which types of products should be highlighted in the company’s holiday gift guide. The decision scientist might investigate what products have sold well without being featured in the gift guide, talk to the user research team about conducting a survey, and use principles of behavioral science to do an analysis to come up with the optimal items to suggest. The result is likely to be a PowerPoint presentation or report to be shared with product managers, vice presidents, and other businesspeople. |
+| Data Engineer | keeping data maintained in databases and ensuring that people can get the data they need | - Data structures and programming<br/> - Advanced data engineering<br/> - Data storage<br/> - Data governance | maintain all the customer records in a large-scale cloud database and manage data from collection to processing to data storage |
+| Research scientist | develops and implements new tools, algorithms, and methodologies, often to be used by other data scientists within the company | - PhDs, usually in computer science, statistics, quantitative social science or a related field | research and try out methods to get 1% more accuracy on image recognition in self-driving cars or building a new deep learning algorithm |
 
 At this point, it’s good to start reflecting on the area of data science you want to specialize in. Where do you already have experience? There are many data scientists who are former engineers, psychology professors, marketing managers, statistics students and social workers. A lot of times, the knowledge you’ve gained in other jobs and academic areas can help you be a better data scientist. If you’re already in data science, it’s helpful to reflect now on which part of the Venn diagram you’re in. Are you happy with it? Do you want to switch to a different type of data science job? Transitioning is often available.
 
@@ -88,7 +93,7 @@ The four methods of getting data science skills that I have surveyed are:
 - Teaching yourself through online courses and data science books
 Let’s dive into each of these above methods.
 
-#### Earning a graduate degree
+#### 4.1. Earning a graduate degree
 Many colleges offer graduate degrees in data science, with programs covering a mixture of topics in computer science, statistics and business. Because these programs are master’s degree programs, they generally take two years and cost $10-50,000 USD or more (depending on the specific country). As with most graduate programs, you can choose to go through the program more slowly while having a job and/or potentially take the classes as online courses. Although many schools offer an actual data science degree, depending on your interests, you may choose instead to get a degree in computer science, statistics, business analytics, operations research or something very close to data science.
 
 <div class="center">
@@ -99,7 +104,7 @@ Many colleges offer graduate degrees in data science, with programs covering a m
 Putting it all together, graduate programs in data science are a good fit for people
 who want an extensive education and can afford it. A graduate program would allow you to learn all the components of data science at a pace that makes the transition reasonable. Graduate programs are not good for people who already have many of the required skills; the programs are much too long and too expensive to be worthwhile. Also, the teachers aren’t industry experts, so the little new knowledge they impart may not even be very relevant. You may need to get industry experience from internships during your graduate program to augment the degree itself.
 
-#### Participating in a data science bootcamp
+#### 4.2. Participating in a data science bootcamp
 A bootcamp is an 8- to 15-week intensive course put on by companies. During the bootcamp, you spend more than eight hours every day learning data science skills, listening to industry speakers, and working on projects. At the end of the course, you’ll usually present a capstone project to a room full of people from companies that are looking to hire data scientists. Ideally, your presentation will get you an interview and then a job.
 Bootcamps teach you an incredible amount in a very short time, which means that they can be great for people who have most of the skills needed for data science but need a bit more. Sometimes, the best part of a bootcamp isn’t the knowledge itself, but the confidence you get from the program that you can actually do the work.
 
@@ -110,13 +115,13 @@ Bootcamps teach you an incredible amount in a very short time, which means that 
 
 Bootcamps can be great programs for people who want to switch careers and already know some of the basics of data science. They can also be useful for people who are just leaving school and want to have a few data science projects in their portfolio while they’re in the job market. Bootcamps are not designed to take you from 0 to 60, though; most of them have competitive admissions requirements, and you need to have a background in the fundamentals of programming and statistics to get in and then get the most out of the program.
 
-#### Doing data science work in your current job
+#### 4.3. Doing data science work in your current job
 You may find yourself in a data-science-adjacent job. An unusual, but often very effective method of learning data science is to start doing more and more data science work as part of your current job. Maybe you’re a business-person who adds a business spin to data science reports and could start adding your own graphs. Or maybe you work in finance, making spreadsheets that you could move into R or Python.
 Trying to do some data science in your current job is a great method because it’s low-risk and has built-in motivation. You aren’t trying to do an expensive bootcamp or degree program that you have to quit your job for; you’re just trying to add a little data science work where you can. And the fact that you’re doing data science in your own job is motivating because the work you’ll do is valuable to others. Over time, you can do more data science work until eventually, it’s all you do, as opposed to taking an educational program and then suddenly switching jobs.
 One important note if you’re taking this path: never become a burden for someone else. Direct burdens might be very obvious, such as repeatedly asking people to create cleaned datasets for you or less obvious, such as continually asking someone to review work you’ve done. You can also create an accidental burden by adding new tools to your team. If you’re in finance, and everyone uses Microsoft Excel except you (you now use R), you’ve just made managing your team more complicated. Be careful as you learn these skills that you aren’t creating issues for other people.
 Learning on the job can be an effective way to become a data scientist, provided that you have a job in which you can apply data science skills and people around who can mentor you. If those things align, this route is a great one, but for many, these things are not in place. If you think this route is viable for you, we highly recommend taking it. Jobs don’t often allow for learning on the job, so take the opportunity if you have it.
 
-#### Teaching yourself
+#### 4.4. Teaching yourself
 An enormous number of books cover data science, as well as many online courses. These books and sites promise to teach you the basics of data science as well as the in-depth technical skills through a medium (and at a price point) that is practical. These courses and books—as well as all the data science blogs, tutorials and Stack Overflow answers—can provide enough of a grounding that people can teach themselves data science. These self-driven learning materials are great for picking up individual skills. If you want to understand how to do deep learning, for example, a book can be a great way to do it. Or if you want to get the basics of R and Python, you can take an online course to get started.
 If you do decide to go down the self-driven route, it’s important to have some constructive work to do. Again, the best way to get better at data science is to DO data science. Reading books and watching videos is great, but you learn far more from doing your own data science work and learning from that work. Make sure to find a project that you want to do, such as taking a dataset and finding interesting results from it, creating a machine learning model and API or using a neural network to generate text.
 Kaggle and DrivenData are great websites for practicing machine learning including open source datasets, multiple solutions to a specific problem, but that’s not all of data science. They miss something which is critical to build a successful career in data science such as asking the right questions, making decisions regarding data sources and metrics to optimize or data munging/wrangling work. The good news is that pet projects can cover all of these!
@@ -139,13 +144,17 @@ Although these questions should provide you a starting point, you don’t have t
 #### Skill sets to focus on some specific backgrounds
 While we've covered some ideas for making decisions easier above, we can take it a step further to dive into some specific backgrounds close to software engineering.
 If you’re still in college, it’s good for you to improve your data structures knowledge and programming skills with SQL, Python or R (or even Java). You also have time to build up a Github or Kaggle profile, which is good to show up your portfolio. You’re ready to work in companies to solve problems.
-	If you’re a programmer with more than two years experience, it is better to take online courses, improve knowledge of Deep Learning/Machine Learning libraries and tools. Moreover, you should pick up an area to focus on, such as general Machine Learning, Natural Languange Processing or Image/Video processing. As proposed earlier, the best way to learn data science is to do data science, that’s good for you to practice or do side projects. You’ll have a better option to consider to be a Data Engineer than a Scientist because of similar skill sets with your background. When you become more experienced (for example > 10 years experience), you should focus on solving business problems using data science. Your curiosity helps you to find the problem on your own and solve it yourself. You could also solve more general problems such as scaling challenges with data, and how to benefit from provided sights.
-	If you’re Business Analysts, Domain experts or Managers, it’s not necessary to know mathematics or programming, it’s better to take a course to understand how Machine Learning works, their ability and limitation, understand each step in Machine Learning, especially on formulating the business around data.
+	* If you’re a programmer with more than two years experience, it is better to take online courses, improve knowledge of Deep Learning/Machine Learning libraries and tools. Moreover, you should pick up an area to focus on, such as general Machine Learning, Natural Languange Processing or Image/Video processing. As proposed earlier, the best way to learn data science is to do data science, that’s good for you to practice or do side projects. You’ll have a better option to consider to be a Data Engineer than a Scientist because of similar skill sets with your background. When you become more experienced (for example > 10 years experience), you should focus on solving business problems using data science. Your curiosity helps you to find the problem on your own and solve it yourself. You could also solve more general problems such as scaling challenges with data, and how to benefit from provided sights.
+	* If you’re Business Analysts, Domain experts or Managers, it’s not necessary to know mathematics or programming, it’s better to take a course to understand how Machine Learning works, their ability and limitation, understand each step in Machine Learning, especially on formulating the business around data.
 
 ---
 
 I hope this blog has helped you answer many questions about how to become a data scientist. When you apply for data scientist positions, one thing that I would strongly emphasize is that you need to demonstrate that you can do this job. That can look different for different people. Data science is still a young-enough field that people aren’t sure what it means to be a data scientist and who can be one; it’s still very undefined. There is still a lot of uncertainty in what this role means and the positions are highly paid enough that the perceived risk to a company hiring wrong is very high, so companies are very risk-averse. Companies need to be sure that the candidate can do that job. Some ways I’ve seen people demonstrate that they can do the job is through open source contributions, speaking at local meetups on projects they’ve done and developing a portfolio of projects on a blog or GitHub/Kaggle profile. For me, I took all the MOOCs and books I needed to learn and started a blog about all of these projects. 
 
-5. References
+## 5. References
 
-[1] <a href="https://www.manning.com/books/build-a-career-in-data-science"> Build a career in Data Science</a>.
+[1] <a href="https://www.manning.com/books/build-a-career-in-data-science"> Build a career in Data Science</a>
+
+[2] <a href="https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century"> Data Scientist - The sexiest job of the 21st century</a>
+
+[3] <a href="https://www.glassdoor.com/List/Best-Jobs-in-America-2019-LST_KQ0,25.htm"> Best jobs in America (2016-2019)</a>

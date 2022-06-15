@@ -1,6 +1,6 @@
 # main text of home
 title: Manh Nguyen
-bio: A Man who loves data
+bio: A runner who loves data
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -41,7 +41,7 @@ email: myemail@gmail.com
 authors:
   manhitv:
     name: Manh Nguyen
-    bio: A Man who loves data
+    bio: A runner who loves data
     external-image: false
     picture: assets/images/profile.jpg
     facebook: manhnh594

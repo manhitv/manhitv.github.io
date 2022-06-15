@@ -7,14 +7,8 @@
 ***
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/manhitv/manhitv.github.io/master/assets/screen-shot.png" />
+    <img src="https://raw.githubusercontent.com/manhitv/manhitv.github.io/master/assets/screen-shot.png"/>
 </p>
-
-## What has inside
-
-- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Google Speed: [99/100](https://pagespeed.web.dev/report?url=https%3A%2F%2Fmanhitv.github.io%2F&form_factor=desktop);
-- No JS.
 
 ## Setup
 
