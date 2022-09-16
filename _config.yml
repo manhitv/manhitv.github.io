@@ -31,12 +31,12 @@ disqus:
   categories: [blog, portfolio] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: manhnh594
 # twitter: mytwitter
 # instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+linkedin: manhitv
+github: manhitv
+email: manhnh594@gmail.com
 
 authors:
   manhitv:
