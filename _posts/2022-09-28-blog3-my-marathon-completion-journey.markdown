@@ -58,49 +58,7 @@ Running is like any other sport, very essential for every human life which helps
 ## 2. Training process
 #### 2.1. Achievements in the running race (December, 2020)
 
-* First week: my first 2km and 5km 
-  
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/blog3/1st_week.png" alt="Alt Text" style="width:80%">
-    </div>
-    <div class="toright">
-        <p>The first week of the race, I had a hard time maintaining a steady, continuous running speed for a period of time. Reaching the first 2km up to the 5km in a row is a huge achievement for me. Later when I ran longer, I realized that this was the best moment, when the body was not too tired and kept a lot of excitement. The image on the right here are my running results measured using the Strava app installed on my phone.</p>
-    </div>    
-</div>
 
-* Second week: my first 10km
-
-<div class="side-by-side">
-    <div class="toright">
-        <img class="image" src="/assets/images/blog3/10k.png" alt="Alt Text" style="width:80%">
-    </div>
-    <div class="toleft">
-        <p>Next, I ran the first 10km in the second week, but the running process was still interrupted by my resting rhythms due to my inexperience with long runs.</p>
-    </div>
-</div>
-
-* Third week: my first 15km
-
-<div class="side-by-side">
-    <div class="toright">
-        <img class="image" src="/assets/images/blog3/15k.png" alt="Alt Text" style="width:80%">
-    </div>
-    <div class="toleft">
-        <p>Once I was able to run 10km, I set a goal to “graduate” from the Half-Marathon (21km). To do that, I conquered 15km in the 3rd week. At this time, I paid attention to warm up carefully and replenish water during the run to be able to run continuously. My average Pace has improved significantly around 6:15 to 6:30 per km.</p>
-    </div>
-</div>
-
-* Fourth week: 21km
-
-<div class="side-by-side">
-    <div class="toright">
-        <img class="image" src="/assets/images/blog3/21k.png" alt="Alt Text" style="width:80%">
-    </div>
-    <div class="toleft">
-        <p>I finally finished the HM run at the end of December 2020. Even though I hurt my leg and couldn't walk properly, and even had to crawl up the stairs when I finished running, the feeling of achieving my goal was amazing. I finished the company's race with a total of 150km passed and officially became addicted to running.</p>
-    </div>
-</div>
 
 #### 2.2. My first official community Half Marathon
 After completing the first HM in my life, I have maintained about 3 running sessions a week, each session averaging 5-7km and longer on weekends. I started signing up for community races so that my running results were more "official" instead of being measured by phone. However, due to the Covid-19 epidemic, the tournament was postponed several times; I can't go to Ha Long to run until July 2022, even though I registered more than 1 year ago. The prize that I participated in is the Vnexpress Marathon Amazing Halong organized by Vnexpress newspaper. The tournament was organized very professionally, from receiving the BIB to completing the distance, all were fully supported. This makes me very satisfied when I spend money and time participating in the tournament.

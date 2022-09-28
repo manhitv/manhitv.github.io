@@ -1,5 +1,5 @@
 ---
-title: "How to become a Data Scientist"
+title: How to become a Data Scientist
 layout: post
 date: 2022-03-16 14:25
 image: /assets/images/markdown.jpg
