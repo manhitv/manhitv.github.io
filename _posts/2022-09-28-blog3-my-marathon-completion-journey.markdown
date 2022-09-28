@@ -1,7 +1,7 @@
 ---
 title: My Marathon completion journey
 layout: post
-date: 2022-04-16 14:25
+date: 2022-09-16 14:25
 image: /assets/images/markdown.jpg
 headerImage: false
 tag: 
@@ -9,7 +9,7 @@ tag:
 - life
 category: blog
 author: manhitv
-description: Data Science career
+description: A blog about my journey to complete Full Marathon
 ---
 
 ![VMHL Finish](../assets/images/blog3/VMHL_finish.jpg)
