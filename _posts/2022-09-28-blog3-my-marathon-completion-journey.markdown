@@ -2,11 +2,11 @@
 title: My Marathon completion journey
 layout: post
 date: 2022-09-16 14:25
-image: /assets/images/markdown.jpg
+image: false
 headerImage: false
 tag: 
-- markdown
 - life
+- sports
 category: blog
 author: manhitv
 description: A blog about my journey to complete Full Marathon

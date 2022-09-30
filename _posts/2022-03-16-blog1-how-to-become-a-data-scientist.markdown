@@ -2,11 +2,11 @@
 title: How to become a Data Scientist
 layout: post
 date: 2022-03-16 14:25
-image: /assets/images/markdown.jpg
+image: false
 headerImage: false
 tag:
-- markdown
-- datascience
+- jobs
+- data science
 category: blog
 author: manhitv
 description: Data Science career

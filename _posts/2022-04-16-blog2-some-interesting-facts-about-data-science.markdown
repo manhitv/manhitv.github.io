@@ -2,11 +2,11 @@
 title: Some interesting facts about Data Science
 layout: post
 date: '2022-04-16'
-image: "/assets/images/markdown.jpg"
+image: false
 headerImage: false
 tag:
-- markdown
-- datascience
+- jobs
+- data science
 category: blog
 author: manhitv
 description: Some interesting facts about Data Science
