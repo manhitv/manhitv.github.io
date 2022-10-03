@@ -31,7 +31,7 @@ You must fill some informations on `_config.yml` to customize your site.
 
 ```
 name: Manh Nguyen
-bio: 'Minimalism, Data Science & Run'
+bio: 'A runner who loves data'
 picture: 'assets/images/profile.jpg'
 ...
 
