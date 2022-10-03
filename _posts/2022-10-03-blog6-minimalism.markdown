@@ -1,7 +1,7 @@
 ---
 title: Minimalism - An interesting lifestyle with many benefits
 layout: post
-date: 2022-10-10 14:25
+date: 2022-09-30 14:25
 image: false
 headerImage: false
 tag: life
