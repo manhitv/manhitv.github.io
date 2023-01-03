@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-03T15:46:03+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manh Nguyen</title><subtitle>My personal website based on Jekyll theme</subtitle><entry><title type="html">Minimalism - An interesting lifestyle with many benefits</title><link href="http://localhost:4000/blog6-minimalism/" rel="alternate" type="text/html" title="Minimalism - An interesting lifestyle with many benefits" /><published>2022-10-03T14:25:00+07:00</published><updated>2022-10-03T14:25:00+07:00</updated><id>http://localhost:4000/blog6-minimalism</id><content type="html" xml:base="http://localhost:4000/blog6-minimalism/">&lt;p&gt;&lt;img src=&quot;../assets/images/blog6/cover.png&quot; alt=&quot;Cover&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-03T12:41:00+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Manh Nguyen</title><subtitle>My personal website based on Jekyll theme</subtitle><entry><title type="html">My Best Country</title><link href="http://localhost:4000/project4-my-best-country/" rel="alternate" type="text/html" title="My Best Country" /><published>2022-12-31T22:10:00+07:00</published><updated>2022-12-31T22:10:00+07:00</updated><id>http://localhost:4000/project4-my-best-country</id><content type="html" xml:base="http://localhost:4000/project4-my-best-country/">&lt;style&gt;
+img {
+  display: block;
+  margin: auto;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/images/project4/hdi.png&quot; alt=&quot;Alt Text&quot; style=&quot;width:100%&quot; /&gt;
+    &lt;figcaption class=&quot;caption&quot;&gt;Human Development Index (2022)&lt;/figcaption&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;my-best-country&quot;&gt;My best country&lt;/h1&gt;
+&lt;p&gt;This is a personal project to find the best country to live and work in for me. This project mainly focus on data synthesis and data visualization instead of going into the details such as building Quality of Life model.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-data-sources&quot;&gt;1. Data sources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Country overview data: human development index and related indicators such as life expectancy, years of schooling, gross national income… from https://hdr.undp.org/&lt;/li&gt;
+  &lt;li&gt;Cross-country survey data on many different areas of life such as Quality Of Life, Agility, Culture, Social purpose… from https://www.usnews.com/news/best-countries&lt;/li&gt;
+  &lt;li&gt;Data related to the labor market from https://glassdoor.com&lt;/li&gt;
+  &lt;li&gt;Other data about population, living cost from https://www.worlddata.info
+    &lt;h3 id=&quot;2-design-the-dashboard-with-google-data-studio&quot;&gt;2. Design the dashboard with Google Data Studio&lt;/h3&gt;
+    &lt;p&gt;Here is the link for Dashboard: https://datastudio.google.com/reporting/5902722c-3ad3-4929-b380-001adf00a511&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;See details at &lt;a href=&quot;#https://github.com/manhitv/my-best-country&quot;&gt;https://github.com/manhitv/my-best-country&lt;/a&gt;&lt;/p&gt;</content><author><name>manhitv</name></author><category term="project" /><category term="lifestyle" /><summary type="html">Human Development Index (2022) My best country This is a personal project to find the best country to live and work in for me. This project mainly focus on data synthesis and data visualization instead of going into the details such as building Quality of Life model. 1. Data sources Country overview data: human development index and related indicators such as life expectancy, years of schooling, gross national income… from https://hdr.undp.org/ Cross-country survey data on many different areas of life such as Quality Of Life, Agility, Culture, Social purpose… from https://www.usnews.com/news/best-countries Data related to the labor market from https://glassdoor.com Other data about population, living cost from https://www.worlddata.info 2. Design the dashboard with Google Data Studio Here is the link for Dashboard: https://datastudio.google.com/reporting/5902722c-3ad3-4929-b380-001adf00a511 See details at https://github.com/manhitv/my-best-country</summary></entry><entry><title type="html">Minimalism - An interesting lifestyle with many benefits</title><link href="http://localhost:4000/blog6-minimalism/" rel="alternate" type="text/html" title="Minimalism - An interesting lifestyle with many benefits" /><published>2022-09-30T14:25:00+07:00</published><updated>2022-09-30T14:25:00+07:00</updated><id>http://localhost:4000/blog6-minimalism</id><content type="html" xml:base="http://localhost:4000/blog6-minimalism/">&lt;p&gt;&lt;img src=&quot;../assets/images/blog6/cover.png&quot; alt=&quot;Cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Minimalism is not only an interesting lifestyle but also brings many benefits, especially in an era of so many choices like today’s life.&lt;/p&gt;
 
