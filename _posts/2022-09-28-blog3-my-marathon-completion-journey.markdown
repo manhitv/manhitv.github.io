@@ -24,7 +24,7 @@ From the time I started running (December 2020) to the time of writing this blog
 - [2. Training process](#2-training-process)
     - [2.1. Achievements in the running race (December, 2020)](#21-achievements-in-the-running-race-december-2020)
     - [2.2. My first official community Half Marathon](#22-my-first-official-community-half-marathon)
-    - [2.3. My first Full Marathon - TBU](#23-my-first-full-marathon---tbu)
+    - [2.3. My first Full Marathon](#23-my-first-full-marathon)
 - [3. Some memories and lessons learned](#3-some-memories-and-lessons-learned)
 
 ---
@@ -112,9 +112,23 @@ Finally, I have officially completed the Half Marathon within 2 hours from the t
     <figcaption class="caption">My first official Half Marathon at Vnexpress Marathon Amazing Halong 2022</figcaption>
 </div>
 
-Although completing HMs exceeded my expectations, every time I finish, I always think 21km is more than enough. I should not make it difficult for myself. However, something prompted me to do FM on the occasion of my 28th birthday. This led to the following results.
+Although completing HMs exceeded my expectations, every time I finish, I always think 21km is more than enough. I should not make it difficult for myself. However, something prompted me to do FM on a special occasion. This led to the following results.
 
-#### 2.3. My first Full Marathon - TBU
+#### 2.3. My first Full Marathon
+After completing the HM sub2 in Ha Long, I tried to run the Full Marathon twice on my birthday (October) and Christmas (December). However, I failed. The reason is that after km 21, I felt my feet hurt and my body was not prepared for this great distance.
+Just like experienced runners shared: "FM is not like running 2 times HM". The more you increase the distance, the more tired your body will be and your excitement will decrease.
+
+<div class="center">
+    <img class="image" src="/assets/images/blog3/FM.jpg" alt="Alt Text" style="width:100%">
+    <figcaption class="caption">My first Full Marathon</figcaption>
+</div>
+
+In the end, whatever comes must come. Refusing to run HM forever, I tried again at the beginning of the new year 2023 and finished my first Full Marathon.
+As such, I completed the FM journey on the 3rd and previous 5 HM attempts with:
+- 2 liters of electrolytes
+- 1 banana
+- 2 cereal bars and 1 loaf of bread (unexpectedly hungry in the last few kilometers).
+Although I have completed the Full Marathon, I must admit that for me HM is the best distance with moderate effort and keeping the excitement throughout the journey.
 
 ---
 
