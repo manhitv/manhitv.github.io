@@ -24,7 +24,6 @@ img {
     <figcaption class="caption">Human Development Index (2022)</figcaption>
 </div>
 
-# My best country
 This is a personal project to find the best country to live and work in for me. This project mainly focus on data synthesis and data visualization instead of going into the details such as building Quality of Life model.
 
 ### 1. Data sources
