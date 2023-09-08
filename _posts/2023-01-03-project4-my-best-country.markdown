@@ -1,7 +1,7 @@
 ---
 title: "My Best Country"
 layout: post
-date: 2022-12-31 22:10
+date: 2023-01-02
 tag: lifestyle
 image: false
 headerImage: false
@@ -32,6 +32,7 @@ This is a personal project to find the best country to live and work in for me. 
 - Cross-country survey data on many different areas of life such as Quality Of Life, Agility, Culture, Social purpose... from [https://www.usnews.com/news/best-countries](#https://www.usnews.com/news/best-countries)
 - Data related to the labor market from [https://glassdoor.com](#https://glassdoor.com)
 - Other data about population, living cost from [https://www.worlddata.info](#https://www.worlddata.info)
+
 ### 2. Design the dashboard with Google Data Studio
 Here is the link for Dashboard on [Google Data Studio](#https://datastudio.google.com/reporting/5902722c-3ad3-4929-b380-001adf00a511)
 
