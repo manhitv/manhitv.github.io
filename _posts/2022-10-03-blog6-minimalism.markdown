@@ -49,7 +49,7 @@ Note that you don’t have to call yourself a minimalist either. The way I see i
 
 #### 2.2. More time, more energy, more options
 
-Minimalism will save you time and energy, thereby opening up many new options for us. Because choice is probably the greatest benefit in this life. We get to live the life we ​​want - that's happiness. 
+Time and energy are limited. Minimalism will save you time and energy, thereby opening up many new options for us. Because choice is probably the greatest benefit in this life. We get to live the life we ​​want - that's happiness. 
 
 #### 2.3. Minimalism is an effective tool for living an intentional life
 
@@ -64,7 +64,7 @@ The best way to practice minimalism is to start with the smallest things in our 
 
 #### 3.1. Find one thing, remove it from your home
 
-You can research yourself into oblivion, but the best way to get started is to just find one thing you don’t need anymore and let it go. 
+You can research yourself into oblivion, but the best way to get started is to just find one thing you don’t need anymore and let it go (by selling or donation). Minimizing material desires will help you have more space, money, focus on quality things.
 
 #### 3.2. Stop the influx of new things
 
@@ -73,6 +73,12 @@ The next immediate step is to stop the influx of new things that you don’t act
 #### 3.3. Start changing mindset
 
 Along with the practice of minimizing, your mindset will also gradually change. You will know enough to be happy, know what is right, what is important and what should be prioritized.
+
+- Minimize relationships: If you're not comfortable with a relationship, cut them off
+- Minimize things to do: Your to-do-list should not cover everything 
+- Minimize goals: We cannot achieve everything at once
+- Minimize concerns: don't worry about what do others, newspapers, radio stations, neighbors... say
+- Minimalism in investing
 
 ---
 
