@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - manhitv
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - manhitv/olist-data-analysis
+  - manhitv/my-best-country
+  - manhitv/object-detection-Tensorflow
+  - manhitv/text-classification-a-survey
+  - manhitv/1st-kalapa-credit-scoring
+  - manhitv/codesignal
