@@ -7,6 +7,7 @@ tags: life skill
 categories: experience
 giscus_comments: false
 related_posts: true
+featured: true
 toc:
   sidebar: left
 ---
