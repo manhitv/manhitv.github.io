@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-13 11:36:00-0400
+date: 2024-10-28 11:36:00-0400
 inline: true
 related_posts: false
 ---
 
-Received scholarship letter of offer for my PhD from <a href='https://www.deakin.edu.au/'>Deakin University</a>.
+Start my PhD journey at A2I2, Deakin University, Australia.

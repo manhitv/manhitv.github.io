@@ -2,7 +2,7 @@
 layout: post
 title: Is a SMART goal enough?
 date: 2022-09-22 10:14:00-0400
-description: A blog about SMART goal methodology
+description: SMART goal methodology
 tags: life skill
 categories: experience
 giscus_comments: false

@@ -2,7 +2,7 @@
 layout: post
 title: Self-learning - The most important life skill
 date: 2022-09-20 10:14:00-0400
-description: A blog about my self-study experience
+description: My self-study experience
 tags: life skill
 categories: experience
 giscus_comments: false

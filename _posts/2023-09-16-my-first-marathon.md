@@ -2,11 +2,11 @@
 layout: post
 title: My Marathon completion journey
 date: 2023-09-10 10:14:00-0400
-description: A blog about my journey to complete the first Full Marathon
+description: My journey to complete the first Full Marathon
 tags: run life
 categories: sports
 giscus_comments: false
-related_posts: false
+related_posts: true
 toc:
   sidebar: left
 ---
