@@ -7,7 +7,7 @@ tags: datascience career fun
 categories: work
 giscus_comments: false
 related_posts: false
-featured: true
+featured: false
 toc:
   sidebar: left
 ---

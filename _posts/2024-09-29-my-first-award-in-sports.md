@@ -7,6 +7,7 @@ tags: run swim life
 categories: sports
 giscus_comments: false
 related_posts: true
+featured: true
 toc:
   sidebar: left
 ---

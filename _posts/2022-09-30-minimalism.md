@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Minimalism - An interesting lifestyle with many benefits
+title: Minimalism
 date: 2022-09-30 10:14:00-0400
-description: Minimalism - An interesting lifestyle with many benefits
+description: Minimalism - an interesting lifestyle with many benefits
 tags: life skill
 categories: experience
 giscus_comments: false
 related_posts: true
-featured: true
+featured: false
 toc:
   sidebar: left
 ---
