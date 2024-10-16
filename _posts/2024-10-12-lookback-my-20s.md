@@ -59,13 +59,13 @@ This can be divided into three main categories as follows.
 
 ---
 
-## 3. Finding Passions and Lifestyle**
+## 3. Finding Passions and Lifestyle
 
 - **Sports**: The primary benefit of sports is building a good fitness foundation for later. It also creates necessary excitement to relieve stress and opens many opportunities to socialize and meet new friends. If possible, I wish I had started swimming and running earlier.
 
 - **Playing Musical Instruments**: Life would be more interesting if I could play an instrument like guitar, ukulele, or piano, to play and sing in my free time. I tried playing guitar, but it requires much time to play well. As we grow older, we have more priorities, so starting early is better.
 
-- **Commit Fully to Your Work (Quality >> Quantity)**: It's easy to do things superficially, just for the experience, leaving time for other things. However, to succeed in life and work, this mindset is crucial. I see this in a few examples:
+- **Commit Fully to Your Work (Quality > Quantity)**: It's easy to do things superficially, just for the experience, leaving time for other things. However, to succeed in life and work, this mindset is crucial. I see this in a few examples:
 
   - **Exploratory Travel vs. Experiential Travel**: I believe exploring, immersing in remote areas, and experiencing local culture makes a trip memorable. Simply passing through, strolling, and checking in might not be enough.
 
