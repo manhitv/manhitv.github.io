@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking back at My 20s
-date: 2024-10-11 05:55:00-0400
+date: 2024-10-15 05:55:00-0400
 description: Looking back at my 20s from my 30s' perspective
 tags: life skill review
 categories: experience
@@ -69,7 +69,7 @@ This can be divided into three main categories as follows.
 
   - **Exploratory Travel vs. Experiential Travel**: I believe exploring, immersing in remote areas, and experiencing local culture makes a trip memorable. Simply passing through, strolling, and checking in might not be enough.
 
-  - **Finding Your Passion**: True passion involves challenging yourself and improving daily by reaching your limits, having a development plan, and a companion. Passion stems from interests, but when we are genuinely passionate, we want to approach it in interesting ways. It can start as a habit, e.g., daily training, but I can make it more enjoyable by trying a different method, a new route, or simply a different pace.
+  - **Finding Your Passion**: True passion involves challenging yourself and improving daily by reaching your limits, having a development plan, and a companion. Passion stems from interests, but when we are genuinely passionate something, we want to approach it in interesting ways. It can start as a habit, e.g., daily training, but I can make it more enjoyable by trying a different method, a new route, or simply a different pace.
 
 - **Choices Are the Greatest Asset**: We are **"truly free"** when we have many choices. I suggest investing in being wealthy in choices, not just money. This means job options (e.g., not being tied to one place or job) or living places (e.g., not being bound to one location, region, or country). Moreover, never be in a situation with no other choices.
 
