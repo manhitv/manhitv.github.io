@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start my PhD journey at A2I2, Deakin University, Australia.
+Commence my PhD journey at A2I2, Deakin University, Australia.
