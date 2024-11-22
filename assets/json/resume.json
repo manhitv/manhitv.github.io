@@ -2,14 +2,14 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
       "name": "Manh Nguyen",
-      "label": "Data Scientist",
+      "label": "PhD Student",
       "image": "",
       "email": "manhnh594@gmail.com",
       "url": "https://manhitv.github.io",
       "summary": "I am passionate about working with data to solve real-world problems. I am interested in all aspects of data science, and particularly in data engineering, applying machine learning and deep learning models, and building robust and scalable data-driven systems.",
       "location": {
-        "countryCode": "VN",
-        "address": "Hanoi"
+        "countryCode": "AU",
+        "address": "Geelong"
       },
       "profiles": [
         {
@@ -20,6 +20,16 @@
       ]
     },
     "work": [
+      {
+        "name": "A2I2, Deakin University",
+        "position": "PhD Student",
+        "startDate": "2024-10-28",
+        "endDate": "",
+        "highlights": ["Understanding large language models", "Hallucinations"],
+        "summary": "",
+        "url": "https://www.linkedin.com/school/deakina2i2/",
+        "location": "Geelong, Victoria, Australia"
+      },
       {
         "name": "CoderSchool (IT W21)",
         "position": "Data Science Mentor",
@@ -33,8 +43,8 @@
       {
         "name": "XPON Technologies Group (ASX:XPN), Representative Office",
         "position": "Data Scientist",
-        "startDate": "2022-05-31",
-        "endDate": "",
+        "startDate": "2022-05-26",
+        "endDate": "2024-10-16",
         "highlights": ["Identity resolution", "End-to-end machine learning", "Automate feature suggestion"],
         "summary": "My work focuses on developing the data science portion of Wondaris (a Customer Data Platform product)",
         "url": "https://www.linkedin.com/company/xpon-technologies/",
@@ -44,7 +54,7 @@
         "name": "Vingroup JSC",
         "position": "Senior Data Scientist",
         "startDate": "2021-04-30",
-        "endDate": "2022-05-31",
+        "endDate": "2022-05-25",
         "highlights": ["ETL data and building data warehouse", "Analytical reporting", "Entity matching development", "Lead scoring"],
         "summary": "My work focused on building data warehouses and solving data science problems of VinHomes (a subsidiary of Vingroup)",
         "url": "https://www.linkedin.com/company/vingroup-jsc/",

@@ -3,7 +3,7 @@ layout: page
 title: 1st Kalapa Credit Scoring
 description: Kalapa Credit Scoring competition
 img: assets/img/p2_creditscoring/award.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: false
 ---
