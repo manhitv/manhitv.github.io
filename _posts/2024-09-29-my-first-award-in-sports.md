@@ -77,7 +77,7 @@ Initially, I thought it would be easy to start slowly, take my time breathing, a
 
 Venturing into the duathlon was truly exciting, and it was even more thrilling to feel confident without using a float and be considered for the top 3 in my age group. Although I only finished in the **top 10**, it was a significant encouragement for my “first time”.
 
-> Unexpected Good Achievement:
+> Unexpected Good Achievements:
 - :swimmer: pace: 2:25
 - :runner: pace 5:27
 

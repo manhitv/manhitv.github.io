@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Before PhD, I just had a paper as second author for an unranked conference.
+description: List of publications (mostly during my PhD)
 nav: true
 nav_order: 2
 ---

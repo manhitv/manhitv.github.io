@@ -43,7 +43,7 @@ This can be divided into three main categories as follows.
 - **Take all opportunities**: We often fear that taking on multiple part-time jobs or experiences will affect other work or time management. Utilizing work opportunities, we can increase income, gain exposure to various environments, and enhance time management skills, making us value time much more.
 
 > ##### WARNING
-> When young, I found it easy to lose discipline with too much free time.
+> When young, I found it's easy to lose discipline with too much free time.
 {: .block-warning }
 ---
 

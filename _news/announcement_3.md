@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Reached the top 3 age groups (30-39) in the <a href='https://aquawarriors.com.vn/'>Aqua Warriors Van Don</a> (Aquathlon) tournament at the Olympic distance (1.5km swim, 10km run).
+Reached the top 3 age groups (30-39) in the <a href='https://aquawarriors.com.vn/van-don/'>Aqua Warriors Van Don</a> Aquathlon tournament (Olympic distance: 1.5 km swim, 10 km run).

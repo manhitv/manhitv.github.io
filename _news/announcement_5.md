@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated with BS degree in Electronics and Communications Engineering from <a href='https://www.hust.edu.vn/en/'>Hanoi University of Science and Technology (HUST)</a>, Vietnam.
+Graduated with a Bachelor of Science (Honours) in Electronics and Communications Engineering from <a href='https://www.hust.edu.vn/en/'>Hanoi University of Science and Technology (HUST)</a>, Vietnam.
