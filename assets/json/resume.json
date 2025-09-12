@@ -22,23 +22,23 @@
     "work": [
       {
         "name": "A2I2, Deakin University",
-        "position": "PhD Student",
+        "position": "PhD Student/Research Assistant",
         "startDate": "2024-10-28",
         "endDate": "",
-        "highlights": ["Understanding large language models", "Hallucinations"],
+        "highlights": ["Hallucinations", "Reliability", "Large Language Models"],
         "summary": "",
         "url": "https://www.linkedin.com/school/deakina2i2/",
         "location": "Geelong, Victoria, Australia"
       },
       {
         "name": "CoderSchool (IT W21)",
-        "position": "Data Science Mentor",
+        "position": "Data Science Mentor (part-time)",
         "startDate": "2022-06-30",
-        "endDate": "",
+        "endDate": "2025-05-31",
         "highlights": [],
         "summary": "",
         "url": "https://www.linkedin.com/school/coderschool/",
-        "location": "Hanoi, Vietnam"
+        "location": "HCM City, Vietnam"
       },
       {
         "name": "XPON Technologies Group (ASX:XPN), Representative Office",
@@ -72,7 +72,7 @@
       },
       {
         "name": "Developer Circles Vietnam",
-        "position": "Data Science Instructor",
+        "position": "Data Science Instructor (part-time)",
         "startDate": "2020-09-30",
         "endDate": "2020-11-30",
         "highlights": [],
@@ -171,7 +171,7 @@
       {
         "name": "Machine learning libraries",
         "icon": "fa-solid fa-hashtag",
-        "keywords": ["scikit‐learn", "numpy", "pandas", "tensorflow/keras"]
+        "keywords": ["pytorch", "scikit‐learn", "numpy", "pandas", "tensorflow/keras"]
       },
       {
         "name": "Cloud tools",
@@ -196,11 +196,11 @@
     ],
     "interests": [
       {
-        "name": "Data science",
+        "name": "Machine Learning",
         "icon": "fa-solid fa-tag",
         "keywords": [
           "Large Language Models",
-          "Explainable Machine Learning", 
+          "Hallucinations", 
           "Data Engineering",
           "Applied Machine Learning",
           "Deep Learning"
