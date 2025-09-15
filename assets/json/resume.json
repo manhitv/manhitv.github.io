@@ -28,7 +28,7 @@
         "highlights": ["Hallucinations", "Reliability", "Large Language Models"],
         "summary": "",
         "url": "https://www.linkedin.com/school/deakina2i2/",
-        "location": "Geelong, Victoria, Australia"
+        "location": "Geelong, VIC, Australia"
       },
       {
         "name": "CoderSchool (IT W21)",
@@ -38,7 +38,7 @@
         "highlights": [],
         "summary": "",
         "url": "https://www.linkedin.com/school/coderschool/",
-        "location": "HCM City, Vietnam"
+        "location": "Hanoi, Vietnam"
       },
       {
         "name": "XPON Technologies Group (ASX:XPN), Representative Office",
@@ -111,7 +111,7 @@
         "endDate": "2017-06-30",
         "score": "3.28",
         "url": "https://www.linkedin.com/school/dhbkhn/",
-        "courses": ["Honors Program", "Rank: 3rd/22"],
+        "courses": ["Honors Program", "CPA: 3.28 (3rd/22)"],
         "location": "Hanoi, Vietnam"
       }
     ],
@@ -160,6 +160,13 @@
         "releaseDate": "2019-04-30",
         "url": "https://www.cinc.org/archives/2019/pdf/CinC2019-021.pdf",
         "summary": "As part of the PhysioNet/Computing in Cardiology Challenge 2019, we propose a neural network called AEC-Net to early detect sepsis based on physiological data."
+      },
+      {
+        "name": "Topic classification of vietnamese product reviews in e-commerce using PhoBERT",
+        "publisher": "Journal of Marketing Analytics",
+        "releaseDate": "2025-05-04",
+        "url": "https://link.springer.com/article/10.1057/s41270-025-00402-w",
+        "summary": "This study uses a semi-supervised NLP approach, combining unsupervised topic modeling with a PhoBERT-based classifier to accurately categorize Vietnamese e-commerce customer reviews."
       }
     ],
     "skills": [
@@ -199,11 +206,18 @@
         "name": "Machine Learning",
         "icon": "fa-solid fa-tag",
         "keywords": [
+          "Deep Learning",
+          "Natural Language Processing",
           "Large Language Models",
-          "Hallucinations", 
+          "Hallucinations"
+        ]
+      },
+      {
+        "name": "Data Science",
+        "icon": "fa-solid fa-tag",
+        "keywords": [
           "Data Engineering",
-          "Applied Machine Learning",
-          "Deep Learning"
+          "Data Analytics"
         ]
       }
     ],
