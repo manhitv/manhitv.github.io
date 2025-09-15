@@ -7,7 +7,7 @@ tags: work
 categories: work
 giscus_comments: false
 related_posts: true
-featured: true
+featured: false
 toc:
   sidebar: left
 ---
