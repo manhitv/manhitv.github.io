@@ -25,7 +25,7 @@
         "position": "PhD Student/Research Assistant",
         "startDate": "2024-10-28",
         "endDate": "",
-        "highlights": ["Hallucinations", "Reliability", "Large Language Models"],
+        "highlights": ["Hallucinations", "Reliability", "Large Language Models", "Agentic LLMs"],
         "summary": "",
         "url": "https://www.linkedin.com/school/deakina2i2/",
         "location": "Geelong, VIC, Australia"
@@ -167,6 +167,13 @@
         "releaseDate": "2025-05-04",
         "url": "https://link.springer.com/article/10.1057/s41270-025-00402-w",
         "summary": "This study uses a semi-supervised NLP approach, combining unsupervised topic modeling with a PhoBERT-based classifier to accurately categorize Vietnamese e-commerce customer reviews."
+      },
+      {
+        "name": "Probabilities Are All You Need: A PRobability-Only Approach to Uncertainty Estimation in Large Language Models",
+        "publisher": "AAAI",
+        "releaseDate": "TBU",
+        "url": "TBU",
+        "summary": "Uncertainty estimation is vital for mitigating hallucinations in Large Language Models (LLMs), but existing methods such as predictive or semantic entropy remain computationally expensive. We propose PRO, an efficient, training-free uncertainty estimation method that approximates predictive entropy using only the responses' top-K probabilities."
       }
     ],
     "skills": [
