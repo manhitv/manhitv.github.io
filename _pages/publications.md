@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: List of publications
+permalink: /papers/
+title: papers
+description: List of papers
 nav: true
 nav_order: 2
 ---
