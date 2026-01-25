@@ -4,7 +4,7 @@ permalink: /papers/
 title: papers
 description: List of papers
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
