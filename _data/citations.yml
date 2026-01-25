@@ -1,0 +1,39 @@
+metadata:
+  last_updated: '2026-01-25'
+papers:
+  vKsGMpwAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Topic classification of vietnamese product reviews in e-commerce using PhoBERT
+    year: '2025'
+  vKsGMpwAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Uncertainty-Guided Checkpoint Selection for Reinforcement Finetuning of Large Language Models
+    year: '2025'
+  vKsGMpwAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: 'Distance Is All You Need: Radial Dispersion for Uncertainty Estimation in Large Language Models'
+    year: '2025'
+  vKsGMpwAAAAJ:Tyk-4Ss8FVUC:
+    citations: 1
+    title: 'CAAD: Context-Aware Adaptive Decoding for Truthful Text Generation'
+    year: '2025'
+  vKsGMpwAAAAJ:UebtZRa9Y70C:
+    citations: 1
+    title: 'Towards Robust Fact-Checking: A Multi-Agent System with Advanced Evidence Retrieval'
+    year: '2025'
+  vKsGMpwAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: 'GRAD: Graph-Retrieved Adaptive Decoding for Hallucination Mitigation'
+    year: '2025'
+  vKsGMpwAAAAJ:_FxGoFyzp5QC:
+    citations: 1
+    title: 'Probabilities Are All You Need: A Probability-Only Approach to Uncertainty Estimation in Large Language Models'
+    year: '2025'
+  vKsGMpwAAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: 'SPaRFT: Self-Paced Reinforcement Fine-Tuning for Large Language Models'
+    year: '2025'
+  vKsGMpwAAAAJ:u5HHmVD_uO8C:
+    citations: 18
+    title: Representation learning for early sepsis prediction
+    year: '2019'
